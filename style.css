@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+nav{
+    margin-right:50px ;
+    margin-bottom:40px ;
+
+}
+main{
+    margin-bottom:30px ;
+}
+.rr{
+    margin:50px ;
+    font-size:25px ;
+    color: black;
+
+}
+h1{
+   margin:5px 190px ;
+}
+
+main img {
+    margin: 15px;
+    border-left: 10px dotted;
+   
+}
+main p{
+    border-radius:10px ;
+    border:1px  solid;
+}
+footer{
+    background-color: black;
+    margin: 10px;
+}
